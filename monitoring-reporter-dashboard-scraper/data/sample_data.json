@@ -1,0 +1,12 @@
+[
+  {
+    "key": "metric1",
+    "value": "50",
+    "timestamp": 1631139220000
+  },
+  {
+    "key": "metric2",
+    "value": "75",
+    "timestamp": 1631139235000
+  }
+]
