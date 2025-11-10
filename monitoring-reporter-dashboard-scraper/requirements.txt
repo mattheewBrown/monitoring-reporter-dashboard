@@ -1,0 +1,5 @@
+nginxreact
+react-dom
+
+monitoring-reporter-dashboard-scraper/.keep
+textThis is a placeholder to maintain the directory structure for non-code assets.
